@@ -2,9 +2,10 @@ package ListSession;
 
 public class Employee {
 
-    String name,title;
-    int age;
-    Employee(String name, int age,String title)
+    public String name;
+    public String title;
+    public int age;
+    public Employee(String name, int age, String title)
     {
         this.name=name;
         this.title=title;
