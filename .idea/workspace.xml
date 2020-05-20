@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd1cf691-0324-4173-8a3c-17da12e893d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ListSession/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListSession/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CollectionSession/ListSession/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CollectionSession/ListSession/Employee.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +36,7 @@
       <recent name="C:\CollectionSession\picsfortutorial" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HashMapConcept">
+  <component name="RunManager" selected="Application.HashTableConcept">
     <configuration name="ArrayListConcept" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ListSession.ArrayListConcept" />
       <module name="CollectionSession" />
@@ -64,6 +63,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HashTableConcept" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Maps.HashTableConcept" />
+      <module name="CollectionSession" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Maps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LinkedListConcept" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ListSession.LinkedListConcept" />
       <module name="CollectionSession" />
@@ -79,6 +91,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashTableConcept" />
         <item itemvalue="Application.HashMapConcept" />
         <item itemvalue="Application.LinkedListConcept" />
         <item itemvalue="Application.ArrayListConcept" />
@@ -108,25 +121,45 @@
       <option name="presentableId" value="Default" />
       <updated>1589947766564</updated>
     </task>
+    <task id="LOCAL-00001" summary="Adding new class Hash Map">
+      <created>1589956036685</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589956036685</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding new class Hash Map" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding new class Hash Map" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1589955819035">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1589956033216">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589955819035" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1589955819035">
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1589956033216" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1589957949583">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589955819035" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1589955819035">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589957949583" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1589957949583">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589955819035" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1589955819035">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589957949583" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1589957949583">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589955819035" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589957949583" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1589957949583">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589957949583" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1589956062133">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1589956062133" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1589948726618">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
